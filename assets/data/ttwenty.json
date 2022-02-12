@@ -1,0 +1,572 @@
+{
+	"schedule": [
+
+		{
+			"date": "1st Round    17-Oct-21",
+			"teamOne": "PNG",
+			"teamTwo": "OMA",
+			"flagOne": "pg.png",
+			"flagTwo": "om.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    17-Oct-21",
+			"teamOne": "BAN",
+			"teamTwo": "SCO",
+			"flagOne": "bd.png",
+			"flagTwo": "sc.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    18-Oct-21",
+			"teamOne": "NED",
+			"teamTwo": "IRE",
+			"flagOne": "nl.png",
+			"flagTwo": "ie.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    18-Oct-21",
+			"teamOne": "SL",
+			"teamTwo": "NAM",
+			"flagOne": "sl.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    19-Oct-21",
+			"teamOne": "SCO",
+			"teamTwo": "PNG",
+			"flagOne": "sc.png",
+			"flagTwo": "pg.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    19-Oct-21",
+			"teamOne": "OMA",
+			"teamTwo": "BAN",
+			"flagOne": "om.png",
+			"flagTwo": "bd.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    20-Oct-21",
+			"teamOne": "NAM",
+			"teamTwo": "NED",
+			"flagOne": "na.png",
+			"flagTwo": "nl.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    20-Oct-21",
+			"teamOne": "SRI",
+			"teamTwo": "IRE",
+			"flagOne": "sl.png",
+			"flagTwo": "ie.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    21-Oct-21",
+			"teamOne": "BAN",
+			"teamTwo": "PNG",
+			"flagOne": "bd.png",
+			"flagTwo": "pg.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    21-Oct-21",
+			"teamOne": "OMA",
+			"teamTwo": "SCO",
+			"flagOne": "om.png",
+			"flagTwo": "sc.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    22-Oct-21",
+			"teamOne": "NAM",
+			"teamTwo": "IRE",
+			"flagOne": "na.png",
+			"flagTwo": "ie.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    22-Oct-21",
+			"teamOne": "SAL",
+			"teamTwo": "NED",
+			"flagOne": "sl.png",
+			"flagTwo": "nl.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    23-Oct-21",
+			"teamOne": "AUS",
+			"teamTwo": "SAF",
+			"flagOne": "au.png",
+			"flagTwo": "sa.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    23-Oct-21",
+			"teamOne": "END",
+			"teamTwo": "WIN",
+			"flagOne": "eng.png",
+			"flagTwo": "wi.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    24-Oct-21",
+			"teamOne": "BAN",
+			"teamTwo": "SAL",
+			"flagOne": "bd.png",
+			"flagTwo": "sl.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    24-Oct-21",
+			"teamOne": "PAK",
+			"teamTwo": "IND",
+			"flagOne": "pk.png",
+			"flagTwo": "in.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    25-Oct-21",
+			"teamOne": "AFG",
+			"teamTwo": "SCO",
+			"flagOne": "af.png",
+			"flagTwo": "sc.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    26-Oct-21",
+			"teamOne": "WIN",
+			"teamTwo": "SAF",
+			"flagOne": "wi.png",
+			"flagTwo": "sa.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "1st Round    26-Oct-21",
+			"teamOne": "PAK",
+			"teamTwo": "NEZ",
+			"flagOne": "pk.png",
+			"flagTwo": "nz.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "1st Round    27-Oct-21",
+			"teamOne": "BAN",
+			"teamTwo": "ENG",
+			"flagOne": "bd.png",
+			"flagTwo": "eng.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    27-Oct-21",
+			"teamOne": "SCO",
+			"teamTwo": "NAM",
+			"flagOne": "sc.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    28-Oct-21",
+			"teamOne": "AUS",
+			"teamTwo": "SAL",
+			"flagOne": "au.png",
+			"flagTwo": "sl.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    29-Oct-21",
+			"teamOne": "WIN",
+			"teamTwo": "BAN",
+			"flagOne": "wi.png",
+			"flagTwo": "bd.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    29-Oct-21",
+			"teamOne": "PAK",
+			"teamTwo": "AFG",
+			"flagOne": "pk.png",
+			"flagTwo": "af.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    30-Oct-21",
+			"teamOne": "SAL",
+			"teamTwo": "SAF",
+			"flagOne": "sl.png",
+			"flagTwo": "sa.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    30-Oct-21",
+			"teamOne": "AUS",
+			"teamTwo": "ENG",
+			"flagOne": "au.png",
+			"flagTwo": "eng.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    31-Oct-21",
+			"teamOne": "AFG",
+			"teamTwo": "NAM",
+			"flagOne": "af.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    31-Oct-21",
+			"teamOne": "NEZ",
+			"teamTwo": "IND",
+			"flagOne": "nz.png",
+			"flagTwo": "in.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    01-Nov-21",
+			"teamOne": "END",
+			"teamTwo": "SAL",
+			"flagOne": "eng.png",
+			"flagTwo": "sl.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    02-Nov-21",
+			"teamOne": "BAN",
+			"teamTwo": "SAF",
+			"flagOne": "bd.png",
+			"flagTwo": "sa.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    02-Nov-21",
+			"teamOne": "PAK",
+			"teamTwo": "NAM",
+			"flagOne": "pk.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    03-Nov-21",
+			"teamOne": "NEZ",
+			"teamTwo": "SCO",
+			"flagOne": "nz.png",
+			"flagTwo": "sc.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    03-Nov-21",
+			"teamOne": "IND",
+			"teamTwo": "AFG",
+			"flagOne": "in.png",
+			"flagTwo": "af.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    04-Nov-21",
+			"teamOne": "BAN",
+			"teamTwo": "AUS",
+			"flagOne": "bd.png",
+			"flagTwo": "au.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    04-Nov-21",
+			"teamOne": "SLI",
+			"teamTwo": "WIN",
+			"flagOne": "sl.png",
+			"flagTwo": "wi.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round   05-Nov-21",
+			"teamOne": "NEZ",
+			"teamTwo": "NAM",
+			"flagOne": "nz.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    05-Nov-21",
+			"teamOne": "SCO",
+			"teamTwo": "IND",
+			"flagOne": "sc.png",
+			"flagTwo": "in.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    06-Nov-21",
+			"teamOne": "WIN",
+			"teamTwo": "AUS",
+			"flagOne": "wi.png",
+			"flagTwo": "au.png",
+			"group": "B",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    06-Nov-21",
+			"teamOne": "ENG",
+			"teamTwo": "SAF",
+			"flagOne": "eng.png",
+			"flagTwo": "sa.png",
+			"group": "B",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Super 12 Round    07-Nov-21",
+			"teamOne": "NEZ",
+			"teamTwo": "AFG",
+			"flagOne": "nz.png",
+			"flagTwo": "af.png",
+			"group": "A",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    07-Nov-21",
+			"teamOne": "PAK",
+			"teamTwo": "SCO",
+			"flagOne": "pk.png",
+			"flagTwo": "sc.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{	"date": "Super 12 Round    08-Nov-21",
+			"teamOne": "IND",
+			"teamTwo": "NAM",
+			"flagOne": "in.png",
+			"flagTwo": "na.png",
+			"group": "A",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Smi Final 1   10-Nov-21",
+			"teamOne": "ENG",
+			"teamTwo": "NEZ",
+			"flagOne": "eng.png",
+			"flagTwo": "nz.png",
+			"group": "",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "Semi Final 2   11-Nov-21",
+			"teamOne": "PAK",
+			"teamTwo": "AUS",
+			"flagOne": "pk.png",
+			"flagTwo": "au.png",
+			"group": "",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": "The Big Final   14-Nov-21",
+			"teamOne": "NEZ",
+			"teamTwo": "AUS",
+			"flagOne": "nz.png",
+			"flagTwo": "au.png",
+			"group": "",
+			"venue": "Sharjah Cricket Stadium",
+			"time": ""
+		}
+	],
+	"venues":[
+		{
+			"country" : "United Arab Emirates",
+			"city": "Dubai",
+			"stadium": "Dubai International Cricket Stadium",
+			"image" : "assets/venues/dubai.jpg"
+		},
+		{
+			"country" : "United Arab Emirates",
+			"city": "Sharjah",
+			"stadium": "Sharjah Cricket Stadium",
+			"image" : "assets/venues/sharjah.jpeg"
+		},
+		{
+			"country" : "United Arab Emirates",
+			"city": "Abu Dhabi",
+			"stadium": "Sheikh Zayed Cricket Stadium",
+			"image" : "assets/venues/sz.jpeg"
+		},
+		{
+			"country" : "Oman",
+			"city": "Muscat",
+			"stadium": "Oman Cricket Academy",
+			"image" : "assets/venues/oman.jpeg"
+		}
+
+
+	],
+	"teams": [
+		{
+			"fullName" : "Pakistan",
+			"shortName" : "pak",
+			"flag" : "assets/flags/pk.png"
+		},
+		{
+			"fullName" : "Australia",
+			"shortName" : "AUS",
+			"flag" : "assets/flags/au.png"
+		},
+		{
+			"fullName" : "Bangladesh",
+			"shortName" : "Bd",
+			"flag" : "assets/flags/bd.png"
+		},
+
+		{
+			"fullName" : "Sri Lanka",
+			"shortName" : "sla",
+			"flag" : "assets/flags/sl.png"
+		},
+		{
+			"fullName" : "West indies",
+			"shortName" : "we",
+			"flag" : "assets/flags/wi.png"
+		},
+		{
+			"fullName" : "England",
+			"shortName" : "en",
+			"flag" : "assets/flags/eng.png"
+		},
+		{
+			"fullName" : "New Zealand",
+			"shortName" : "ne",
+			"flag" : "assets/flags/nz.png"
+		},
+		{
+			"fullName" : "Afghanistan",
+			"shortName" : "AFG",
+			"flag" : "assets/flags/af.png"
+		}
+	],
+	"history": [
+		{
+			"winner": "India",
+			"runnerUp": "Pakistan",
+			"host": "South Africa",
+			"winnerFlag": "in.png",
+			"runnerUpFlag": "pk.png",
+			"year": "2007"
+		},
+		{
+			"winner": "Pakistan",
+			"runnerUp": "Sri Lanka",
+			"winnerFlag": "pk.png",
+			"runnerUpFlag": "sl.png",
+			"host": "England",
+			"year": "2009"
+		},
+		{
+			"winner": "England",
+			"runnerUp": "Australia",
+			"winnerFlag": "eng.png",
+			"runnerUpFlag": "wi.png",
+			"host": "West Indies",
+			"year": "2010"
+		},
+		{
+			"winner": "West Indies",
+			"runnerUp": "Sri Lanka",
+			"winnerFlag": "wi.png",
+			"runnerUpFlag": "sl.png",
+			"host": "Sri Lanka",
+			"year": "2012"
+		},
+		{
+			"winner": "Sri Lanka",
+			"runnerUp": "India",
+			"winnerFlag": "sl.png",
+			"runnerUpFlag": "in.png",
+			"host": "Bangladesh",
+			"year": "2014"
+		},
+		{
+			"winner": "West Indies",
+			"runnerUp": "England",
+			"winnerFlag": "wi.png",
+			"runnerUpFlag": "eng.png",
+			"host": "India",
+			"year": "2016"
+		},
+
+		{
+			"winner": "Postponed",
+			"runnerUp": "Postponed",
+			"winnerFlag": "postponed.jpg",
+			"runnerUpFlag": "postponed.jpg",
+			"host": "Australia",
+			"year": "2020"
+		}
+	]
+}
